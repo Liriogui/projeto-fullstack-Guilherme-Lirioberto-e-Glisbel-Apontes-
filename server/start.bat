@@ -1,0 +1,6 @@
+@echo off
+echo Instalando dependencias do backend...
+call npm install
+echo.
+echo Iniciando servidor backend...
+call npm run dev
